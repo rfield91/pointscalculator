@@ -15,5 +15,5 @@ public static class Constants
 
 
     public const int NumberOfCountedEvents = 8;
-    public const int MinimumEventsForTrophy = 4;
+    public const int MinimumEventsForTrophy = 5;
 }
